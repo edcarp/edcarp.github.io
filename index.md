@@ -11,4 +11,5 @@ Data Carpentry (since 2014) teaches particular and recommended tools to do repro
 
 As the Carpentries’ joint communities reached over 1000 certified instructors and nearly 50 partner institutions, on 30 August 2017 the respective steering committees approved the merger of the two organisations into a single umbrella organisation with associated lesson organisations and a starting date of 1 January 2018. This will enable the development of related 'Carpenties' under the same umbralla, e.g. Library Carpentry, HPC Carpentry, domain-specific Data Carpentries, etc.
 
-![carpentries-history](https://software-carpentry.org/files/2017/SWCDChistory.png "A brief history of the Carpentries")
+A very brief history of Software and Data Carpentry:
+![carpentries-history](https://software-carpentry.org/files/2017/SWCDChistory.png "A brief history of Software and Data Carpentry")
