@@ -1,3 +1,10 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
+
 # Welcome!
 Find out what is happening in the University of Manchester's Carpentry community.
 
@@ -14,3 +21,4 @@ As The Carpentries’ joint communities reached over 1000 certified instructors 
 A very brief history of Software and Data Carpentry:
 
 ![carpentries-history](https://software-carpentry.org/files/2017/SWCDChistory.png "A brief history of Software and Data Carpentry")
+
