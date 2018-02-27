@@ -262,7 +262,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 960px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -301,6 +301,9 @@ Full-Width Styles
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
+  a {
+    color: inherit;
+  }
 }
 
 #project_tagline {
@@ -357,13 +360,24 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  padding: 20px 10px 20px 0px;
+  flex-grow: 1;
 }
 
 #footer_wrap {
   background: #212121;
 }
 
+#posts {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  flex-shrink: 0;
+  width: 300px;
+}
+
+.flex-wrapper {
+  display: flex;
+}
 
 
 /*******************************************************************************

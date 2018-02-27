@@ -19,7 +19,7 @@
         <header class="inner">
           <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 id="project_title"><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
@@ -33,9 +33,14 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
-      </section>
+        <div class="inner flex-wrapper">
+            <section id="main_content">
+                {{ content }}
+            </section>
+            <section id="posts">
+                {% include latest_news.html %}
+            </section>
+        </div>
     </div>
 
     <!-- FOOTER  -->
