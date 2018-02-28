@@ -18,8 +18,8 @@ Software Carpentry (since early 2000s) focuses on conveying the best practices i
 Data Carpentry (since 2014) teaches particular and recommended open source tools to do reproducible and scalable data analysis. In general, topics that are covered by [the core Data Carpentry curriculum](http://www.datacarpentry.org/lessons/) include:
 
 - data organization in spreadsheets	and data cleaning (OpenRefine)
-- data Management with SQL
-- data analysis and visualization (R or Python)
+- data management with SQL
+- data analysis and visualisation (R or Python)
 
 There are many emerging Carpentries now. [Library Carpentry](https://librarycarpentry.github.io/) (since 2015/2016, initiated in the UK by James Baker and now a worldwide movement) is a branch of Data Carpentry that specialises in training librarians and digital humanities researchers. It became an official Carpentry in 2017. There are [various other (primarily Data) Carpentries emerging](http://www.datacarpentry.org/lessons/#materials-in-early-development) - [HPC Carpentry](https://hpc-carpentry.github.io/), Data Carpentry for [Social Sciences](http://www.datacarpentry.org/lessons/#social-science-curriculum), gemonics, astronomy, etc.
 
