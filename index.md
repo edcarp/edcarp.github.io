@@ -22,7 +22,7 @@ Data Carpentry (since 2014) teaches particular and recommended open source tools
 - data Management with SQL
 - data analysis and visualization (R or Python)
 
-There are many emerging Carpentries now. Library Carpentry (since 2015/2016, initiated in the UK by James Baker and now a worldwide movement) is a branch of Data Carpentry that specialises in training librarians and digital humanities researchers. It became an official Carpentry in 2017. There are various other (primarily Data) Carpentries emerging - HPC Carpentry, Data Carpentry for Social Sciences, gemonics, astronomy, etc.
+There are many emerging Carpentries now. [Library Carpentry](https://librarycarpentry.github.io/) (since 2015/2016, initiated in the UK by James Baker and now a worldwide movement) is a branch of Data Carpentry that specialises in training librarians and digital humanities researchers. It became an official Carpentry in 2017. There are [various other (primarily Data) Carpentries emerging](http://www.datacarpentry.org/lessons/#materials-in-early-development) - [HPC Carpentry](https://hpc-carpentry.github.io/), Data Carpentry for [Social Sciences](http://www.datacarpentry.org/lessons/#social-science-curriculum), gemonics, astronomy, etc.
 
 As The Carpentries’ joint communities reached over 1000 certified instructors and nearly 50 partner institutions, on 30 August 2017 the respective steering committees approved the merger of the two organisations into a single umbrella organisation with associated lesson organisations and a starting date of 1 January 2018. This will enable the development of related 'Carpenties' under the same umbralla, but following the similar process and sharing the community and resources.
 
