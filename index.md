@@ -18,7 +18,7 @@ Software Carpentry (since early 2000s) focuses on conveying the best practices i
 Data Carpentry (since 2014) teaches particular and recommended open source tools to do reproducible and scalable data analysis. In general, topics that are covered by [the core Data Carpentry curriculum](http://www.datacarpentry.org/lessons/) include:
 
 - UNIX shell (for automating repetitive tasks)
-- Data organization in spreadsheets	and data cleaning (OpenRefine)
+- data organization in spreadsheets	and data cleaning (OpenRefine)
 - data Management with SQL
 - data analysis and visualization (R or Python)
 
