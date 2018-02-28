@@ -7,15 +7,16 @@ Find out what is happening in the University of Manchester's Carpentry community
 
 # What are The Carpentries?
 
-(Software Carpentry)[https://software-carpentry.org/] and (Data Carpentry)[http://www.datacarpentry.org/] are sister organizations and communities of practice focused on teaching best practices in computing/programming/software engineering and data analysis to researchers and scientists with minimal or no prior knowledge in these areas but who find themselves increasingly having to write code to conduct their work. 
+[Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) are sister organizations and communities of practice focused on teaching best practices in computing/programming/software engineering and data analysis to researchers and scientists with minimal or no prior knowledge in these areas but who find themselves increasingly having to write code to conduct their work. 
 
-Software Carpentry (since early 2000s) focuses on conveying the best practices in programming/computing/software engineering and writing clean, reproducible and robust code to analyse data (regardless of the tools used). In general, topics that are covered by the (core Software Carpentry curriculum)[https://software-carpentry.org/lessons/] include:
+Software Carpentry (since early 2000s) focuses on conveying the best practices in programming/computing/software engineering and writing clean, reproducible and robust code to analyse data (regardless of the tools used). In general, topics that are covered by the [core Software Carpentry curriculum](https://software-carpentry.org/lessons/) include:
 
 - UNIX shell (for automating repetitive tasks)
 - version control - git/GitHub or Mercurial (for code sharing and collaboration)
 - a programming language (R or Python) 
 
-Data Carpentry (since 2014) teaches particular and recommended open source tools to do reproducible and scalable data analysis. In general, topics that are covered by (the core Data Carpentry curriculum)[http://www.datacarpentry.org/lessons/] include:
+Data Carpentry (since 2014) teaches particular and recommended open source tools to do reproducible and scalable data analysis. In general, topics that are covered by [the core Data Carpentry curriculum](http://www.datacarpentry.org/lessons/) include:
+
 - UNIX shell (for automating repetitive tasks)
 - Data organization in spreadsheets	and data cleaning (OpenRefine)
 - data Management with SQL
