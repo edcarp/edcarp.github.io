@@ -22,3 +22,35 @@
 .inner {
   max-width: 960px;
 }
+
+.header-tabs {
+  z-index: 10;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+
+  .header-tab {
+    display: inline-block;
+    color: #fff;
+    background-color: #444;
+    font-weight: 700;
+    box-shadow: 0 0 10px #000;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    padding: 10px 20px;
+    margin-left: 10px;
+
+    &:hover {
+      background-color: #555;
+      text-decoration: none;
+    }
+  }
+}
+
+#project_title a {
+  color: inherit;
+}
+
+#header_wrap .inner {
+  padding-top: 0;
+}
