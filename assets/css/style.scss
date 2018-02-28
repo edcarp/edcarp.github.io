@@ -1,4 +1,24 @@
 ---
 ---
 
-@import "jekyll-theme-slate-modified";
+@import "jekyll-theme-slate";
+
+#posts {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  flex-shrink: 0;
+  width: 300px;
+}
+
+.flex-wrapper {
+  display: flex;
+}
+
+#main_content {
+  padding: 20px 10px 20px 0;
+  flex-grow: 1;
+}
+
+.inner {
+  max-width: 960px;
+}
