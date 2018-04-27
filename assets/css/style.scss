@@ -8,11 +8,14 @@ $uom-purple-light: #934EB7;
 $uom-yellow: #FFCC33;
 $uom-grey: #999999;
 
+* {
+  box-sizing: border-box;
+}
+
 #posts {
   padding-top: 20px;
   padding-bottom: 20px;
-  flex-shrink: 0;
-  width: 300px;
+  flex: 1;
 }
 
 .flex-wrapper {
@@ -33,7 +36,7 @@ $uom-grey: #999999;
 
 #main_content {
   padding: 20px 10px 20px 0;
-  flex-grow: 1;
+  flex: 3;
 }
 
 .inner {
