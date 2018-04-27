@@ -14,7 +14,7 @@ Software Carpentry (since early 2000s) focuses on conveying the best practices i
 
 - Automating repetitive tasks - using UNIX Shell
 - Code version control, sharing and collaboration - using git/GitHub or Mercurial
-- An introduction to programming languages and some best practices in programming - using R or Python 
+- An introduction to programming and best practices - using R or Python 
 
 Data Carpentry (since 2014) teaches particular and recommended open source tools to do reproducible and scalable data analysis. In general, topics that are covered by [the core Data Carpentry curriculum](http://www.datacarpentry.org/lessons/) include:
 
