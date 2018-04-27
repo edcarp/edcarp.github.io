@@ -32,12 +32,26 @@
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
+        <footer class="inner">
+            <div class="logo-wrap">
+                <a href="" target="_blank">
+                    <img class="footer-logo footer-logo-uom" src="{{ '/assets/images/uom_col_background.png' | relative_url }}"/>
+                </a>
+                <a href="" target="_blank">
+                    <img class="footer-logo" src="{{ '/assets/images/carpentries_logo_white.png' | relative_url }}"/>
+                </a>
+                <a href="" target="_blank">
+                    <img class="footer-logo" src="{{ '/assets/images/swc_logo_white.svg' | relative_url }}"/>
+                </a>
+                <a href="" target="_blank">
+                    <img class="footer-logo" src="{{ '/assets/images/dc_logo_white.png' | relative_url }}"/>
+                </a>
+            </div>
+            {% if site.github.is_project_page %}
+            <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+            {% endif %}
+            <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        </footer>
     </div>
 
     {% if site.google_analytics %}

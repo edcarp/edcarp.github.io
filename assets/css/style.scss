@@ -3,6 +3,11 @@
 
 @import "jekyll-theme-slate";
 
+$uom-purple: #660099;
+$uom-purple-light: #934EB7;
+$uom-yellow: #FFCC33;
+$uom-grey: #999999;
+
 #posts {
   padding-top: 20px;
   padding-bottom: 20px;
@@ -36,7 +41,7 @@
   .header-tab {
     display: inline-block;
     color: #fff;
-    background-color: #444;
+    background-color: $uom-purple;
     font-weight: 700;
     box-shadow: 0 0 10px #111;
     border-bottom-left-radius: 2px;
@@ -51,16 +56,43 @@
     }
 
     &:hover {
-      background-color: #555;
+      background-color: $uom-purple-light;
       text-decoration: none;
     }
   }
 }
 
-#project_title a {
-  color: inherit;
+#project_title {
+  padding-top: 30px;
+
+  a {
+    color: inherit;
+    text-shadow: inherit;
+  }
 }
 
-#header_wrap .inner {
-  padding-top: 0;
+#header_wrap {
+  background: url(../images/our-brand-banner.jpg) top center;
+
+  .inner {
+    padding-top: 0;
+    padding-bottom: 80px;
+  }
+}
+
+.logo-wrap {
+  a {
+    text-decoration: none;
+  }
+  .footer-logo {
+    height: 40px;
+    box-shadow: none;
+    border: none;
+    vertical-align: top;
+    margin-right: 25px;
+  }
+
+  .footer-logo-uom {
+    height: 60px;
+  }
 }
