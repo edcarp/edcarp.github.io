@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Software Carpentry workshop in 15-16 May 2018"
+title:  "Software Carpentry workshop, 15-16 May 2018"
 date:   2018-04-27 15:01:26 +0000
 categories: jekyll update
 ---
