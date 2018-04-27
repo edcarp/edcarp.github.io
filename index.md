@@ -10,7 +10,7 @@ Find out what is happening in the University of Manchester's Carpentry community
 
 The Carpentries project was formed in Janury 2018 by formally merging [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/). There are now many more new and emerging Carpentries, such as [Library Carpentry](https://librarycarpentry.github.io/) and [HPC Carpentry](https://hpc-carpentry.github.io/), which are all coming together under the umbrella of The Carpentries. These are all communities of practice - consisting of volunteer instructors, trainers, maintainers, helpers, and supporters who all share a mission to teach scientists best practices in writing clean, reproducible and robust code.
 
-Software Carpentry (since early 2000s and even earlier) focuses on conveying the best practices in programming and writing clean, reproducible and robust code to analyse data regardless of the tools used. In general, topics that are covered by the [core Software Carpentry curriculum](https://software-carpentry.org/lessons/) include:
+Software Carpentry (since early 2000s) focuses on conveying the best practices in programming and writing clean, reproducible and robust code to analyse data regardless of the tools used. In general, topics that are covered by the [core Software Carpentry curriculum](https://software-carpentry.org/lessons/) include:
 
 - Automating repetitive tasks - using UNIX Shell
 - Code version control, sharing and collaboration - using git/GitHub or Mercurial
