@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Data Carpentry workshops for social scientists, 23-24 May 2018"
-date:   2018-04-27 15:01:26 +0000
+date:   2018-04-27 16:01:26 +0000
 categories: jekyll update
 ---
 # Data Carpentry Workshop for Social Scientists, 23-24 May 2018
