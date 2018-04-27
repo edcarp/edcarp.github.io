@@ -89,17 +89,6 @@ $uom-grey: #999999;
 }
 
 footer {
-  display: flex;
-  flex-wrap: wrap;
-
-  .footer-block {
-    //border-left: 1px solid #999;
-    //padding-left: 10px;
-    flex-grow: 1;
-    display: inline-block;
-    color: white;
-  }
-
   .logo-wrap {
     a {
       text-decoration: none;
