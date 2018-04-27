@@ -23,6 +23,14 @@ $uom-grey: #999999;
   }
 }
 
+#main_content_wrap {
+  background: #eee;
+
+  .inner {
+    background: #fff;
+  }
+}
+
 #main_content {
   padding: 20px 10px 20px 0;
   flex-grow: 1;
@@ -72,27 +80,29 @@ $uom-grey: #999999;
 }
 
 #header_wrap {
-  background: url(../images/our-brand-banner.jpg) top center;
-
   .inner {
     padding-top: 0;
     padding-bottom: 80px;
+    background: url(../images/our-brand-banner.jpg) top center;
+    background-size: cover;
   }
 }
 
-.logo-wrap {
-  a {
-    text-decoration: none;
-  }
-  .footer-logo {
-    height: 40px;
-    box-shadow: none;
-    border: none;
-    vertical-align: top;
-    margin-right: 25px;
-  }
+footer {
+  .logo-wrap {
+    a {
+      text-decoration: none;
+    }
+    .footer-logo {
+      height: 40px;
+      box-shadow: none;
+      border: none;
+      vertical-align: top;
+      margin-right: 25px;
+    }
 
-  .footer-logo-uom {
-    height: 60px;
+    .footer-logo-uom {
+      height: 60px;
+    }
   }
 }
