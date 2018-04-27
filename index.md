@@ -6,6 +6,11 @@ layout: home
 Find out what is happening in the University of Manchester's Carpentry community.
 
 # What are The Carpentries?
+[The Carpentries](https://carpentries.org/) teach foundational computational, coding, and data science skills to researchers worldwide with no or minimal prior programming knowledge who find themselves increasingly having to write code to conduct their work. 
+
+The Carpentries project was formed in Janury 2018 by formally merging [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/). There are now many more new and emerging Carpentries, such as Library Carpentry and HPC Carpentry, which are all coming together under the umbrella of The Carpentries. These are all communities of practice - consisting of instructors, trainers, maintainers, helpers, and supporters who all share a mission to teach scientists best practices in writing clean, reproducible and robust code.
+
+
 
 [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) are sister organizations and communities of practice focused on teaching best practices in computing/programming/software engineering and data analysis to researchers and scientists with minimal or no prior knowledge in these areas but who find themselves increasingly having to write code to conduct their work. 
 
