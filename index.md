@@ -23,6 +23,8 @@ Data Carpentry (since 2014) teaches particular and recommended open source tools
 - Data management with SQL
 - Data analysis and visualisation - using R or Python
 
-Read more about the [history](https://software-carpentry.org/scf/history/) of Software and Data Carpentry:
+## History
+Read more about the [history](https://software-carpentry.org/scf/history/) of Software and Data Carpentry.
+
 ![carpentries-history](https://software-carpentry.org/files/2017/SWCDChistory.png "A brief history of Software and Data Carpentry")
 
