@@ -3,6 +3,7 @@ layout: default
 title:  "Software Carpentry workshop, 3-4 July 2018"
 date:   2018-05-07 15:01:26 +0000
 categories: jekyll update
+type: workshop_announcement
 ---
 # Software Carpentry Workshop, 3-4 July 2018
 
