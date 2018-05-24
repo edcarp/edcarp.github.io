@@ -4,7 +4,7 @@ title:  "Data Carpentry for Social Science Lessons Released"
 date:   2018-05-24 10:01:26 +0000
 categories: jekyll update
 ---
-#Data Carpentry for Social Science Lessons Released
+# Data Carpentry for Social Science Lessons Released
 
 The highly anticipated Data Carpentry lessons for Social Sciences have now been released, and are ready for teaching. 
 
