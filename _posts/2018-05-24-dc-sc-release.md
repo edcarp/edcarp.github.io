@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Software Carpentry workshop, 3-4 July 2018"
+title:  "Data Carpentry for Social Science Lessons Released"
 date:   2018-05-24 10:01:26 +0000
 categories: jekyll update
 ---
