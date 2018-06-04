@@ -40,7 +40,7 @@ body {
 }
 
 #main_content {
-  padding: 20px 10px 20px 0;
+  padding: 0px 10px 20px 0;
   flex: 3;
 }
 
@@ -96,7 +96,7 @@ body {
 #project_title {
   padding-top: 30px;
   font-size: 24px;
-  color: #7a8288;
+  color: #ffffff;
   text-shadow: none;
   display: inline-block;
   vertical-align: top;
@@ -113,8 +113,11 @@ body {
     /*background: url(../images/our-brand-banner.jpg) top center;*/
     background-size: cover;
   }
-  background: #ffffff;
-  min-width: 1280px;
+    background-color: #660099;
+    background-image: url(//assets.manchester.ac.uk/staffnet/images/circles.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+      min-width: 1280px;
   border-bottom: 1px solid #eeeeee;
 }
 
