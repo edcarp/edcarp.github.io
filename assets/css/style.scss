@@ -70,15 +70,17 @@ body {
 
   .header-tab {
     //display: inline-block;
-    //color: #fff;
+    color: #fff;
     /*background-color: $uom-purple;*/
     font-weight: 700;
     //box-shadow: 0 0 10px #111;
     //border-bottom-left-radius: 2px;
     //border-bottom-right-radius: 2px;
-    padding: 10px 20px;
+    padding: 2px;
+    margin: 10px 20px;
     //margin-left: 10px;
     float: right;
+    text-decoration: none;
 
     @media screen and (max-width: 960px) {
       font-weight: inherit;
@@ -89,6 +91,7 @@ body {
     &:hover {
       /*background-color: $uom-purple-light;*/
       text-decoration: none;
+      border-bottom: 2px solid #ffffff;
     }
   }
 }
@@ -104,6 +107,7 @@ body {
   a {
     color: inherit;
     text-shadow: inherit;
+    text-decoration: none;
   }
 }
 
