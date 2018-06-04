@@ -20,16 +20,17 @@ html, body {
 body {
   display: flex;
   flex-direction: column;
+    background: #ffffff;
 }
 
 #main_content_wrap {
   flex: 1 0 auto;
-  background: #eee;
+  background: #ffffff;
   border-top: none;
 
   .inner {
     background: #fff;
-    padding: 10px 30px;
+    /*padding: 10px 30px;*/
     height: 100%;
   }
 }
@@ -63,20 +64,21 @@ body {
 
 .header-tabs {
   z-index: 10;
-  display: flex;
+  display: inline;
   flex-direction: row;
   justify-content: flex-end;
 
   .header-tab {
-    display: inline-block;
-    color: #fff;
-    background-color: $uom-purple;
+    //display: inline-block;
+    //color: #fff;
+    /*background-color: $uom-purple;*/
     font-weight: 700;
-    box-shadow: 0 0 10px #111;
-    border-bottom-left-radius: 2px;
-    border-bottom-right-radius: 2px;
+    //box-shadow: 0 0 10px #111;
+    //border-bottom-left-radius: 2px;
+    //border-bottom-right-radius: 2px;
     padding: 10px 20px;
-    margin-left: 10px;
+    //margin-left: 10px;
+    float: right;
 
     @media screen and (max-width: 960px) {
       font-weight: inherit;
@@ -85,7 +87,7 @@ body {
     }
 
     &:hover {
-      background-color: $uom-purple-light;
+      /*background-color: $uom-purple-light;*/
       text-decoration: none;
     }
   }
@@ -93,6 +95,11 @@ body {
 
 #project_title {
   padding-top: 30px;
+  font-size: 24px;
+  color: #7a8288;
+  text-shadow: none;
+  display: inline-block;
+  vertical-align: top;
 
   a {
     color: inherit;
@@ -102,11 +109,21 @@ body {
 
 #header_wrap {
   .inner {
-    padding-top: 0;
-    padding-bottom: 80px;
-    background: url(../images/our-brand-banner.jpg) top center;
+    padding: 5px;
+    /*background: url(../images/our-brand-banner.jpg) top center;*/
     background-size: cover;
   }
+  background: #ffffff;
+  min-width: 1280px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.header-logo{
+    padding: 0px 20px 0px 0px;
+    margin: 0px;
+    border: 0px;
+    box-shadow: none;
+    -webkit-box-shadow: none;
 }
 
 footer {
