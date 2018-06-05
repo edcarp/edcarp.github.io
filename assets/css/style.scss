@@ -68,7 +68,10 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
   z-index: 10;
   float: right;
   padding-top: 30px;
-
+  @media screen and (max-width: 960px) {
+    padding-top: 0;
+  }
+  
   .header-tab {
     //display: inline-block;
     color: #fff;
@@ -82,11 +85,11 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
     //margin-left: 10px;
     float: right;
     text-decoration: none;
+    border-bottom: 2px solid transparent;
 
     @media screen and (max-width: 960px) {
-      font-weight: inherit;
       padding: 2px 10px;
-      margin-left: 5px;
+      margin: 0 5px;
     }
 
     &:hover {
@@ -104,6 +107,9 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
   text-shadow: none;
   display: inline-block;
   vertical-align: top;
+  @media screen and (max-width: 960px) {
+      padding-top: 0;
+  }
 
   a {
     color: inherit;
@@ -118,11 +124,10 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
     /*background: url(../images/our-brand-banner.jpg) top center;*/
     background-size: cover;
   }
-    background-color: #660099;
-    background-image: url(//assets.manchester.ac.uk/staffnet/images/circles.png);
-    background-repeat: no-repeat;
-    background-position: bottom;
-      min-width: 1280px;
+  background-color: #660099;
+  background-image: url(//assets.manchester.ac.uk/staffnet/images/circles.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
   border-bottom: 1px solid #eeeeee;
 }
 
