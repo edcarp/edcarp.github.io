@@ -68,7 +68,7 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
   z-index: 10;
   float: right;
   padding-top: 30px;
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 480px) {
     padding-top: 0;
   }
   
@@ -107,7 +107,7 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
   text-shadow: none;
   display: inline-block;
   vertical-align: top;
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 480px) {
       padding-top: 0;
   }
 
