@@ -66,20 +66,19 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
 
 .header-tabs {
   z-index: 10;
-  display: inline;
-  flex-direction: row;
-  justify-content: flex-end;
+  float: right;
+  padding-top: 30px;
 
   .header-tab {
     //display: inline-block;
     color: #fff;
     /*background-color: $uom-purple;*/
-    font-weight: 700;
+    font-size: 18px;
     //box-shadow: 0 0 10px #111;
     //border-bottom-left-radius: 2px;
     //border-bottom-right-radius: 2px;
     padding: 2px;
-    margin: 10px 20px;
+    margin: 0 20px;
     //margin-left: 10px;
     float: right;
     text-decoration: none;
