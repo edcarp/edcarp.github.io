@@ -111,6 +111,10 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
     text-shadow: inherit;
     text-decoration: none;
   }
+
+  a:hover {
+    font-weight: bold;
+  }
 }
 
 #header_wrap {
