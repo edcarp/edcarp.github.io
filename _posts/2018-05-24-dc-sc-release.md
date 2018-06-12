@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Data Carpentry for Social Science Lessons Released"
-date:   2018-05-24 10:01:26 +0000
+date:   2018-05-20 10:01:26 +0000
 categories: jekyll update
 ---
 # Data Carpentry for Social Science Lessons Released
