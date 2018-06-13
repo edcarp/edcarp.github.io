@@ -5,8 +5,8 @@ layout: home
 # Welcome!
 At the University of Manchester there are various groups offering training in research computing to researchers and PhD students:
 - [Research IT](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/)
-- [Library Services](http://www.library.manchester.ac.uk/contact/other-services/)
 - [Cathie Marsh Institute for Social Research (CMIST)](https://www.cmist.manchester.ac.uk/study/short/)
+- [Library Services](http://www.library.manchester.ac.uk/contact/other-services/)
 - [Staff Learning and Development (STDU)](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/)
 
 Contact [Research IT](http://www.itservices.manchester.ac.uk/research/) for Carpentry workshops in general, or for training for Doctoral Training Centres.
