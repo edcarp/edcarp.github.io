@@ -16,8 +16,8 @@ as well as point to events and news from the international Carpentry community.
 
 ## What are The Carpentries?
 [The Carpentries](https://carpentries.org/) teach foundational computational, coding, and data science skills to researchers worldwide with no or minimal prior 
-programming knowledge who find themselves increasingly having to write code to conduct their work. In the UK, the Carpentry programme was first endorsed by 
-[the Software Sustanability Institute (SSI)](https://software.ac.uk/), which still provide support for running and organising workshops and recruiting instructors 
+programming knowledge who find themselves increasingly having to write code to conduct their work. In the UK, the Carpentry programme was first endorsed by the
+[Software Sustanability Institute (SSI)](https://software.ac.uk/), which still provide support for running and organising workshops and recruiting instructors 
 from the wider UK Carpentry community. 
 
 The Carpentries project was formed in January 2018 by formally merging [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/). 
