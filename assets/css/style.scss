@@ -7,7 +7,7 @@ $uom-purple: #660099;
 $uom-purple-light: #934EB7;
 $uom-yellow: #FFCC33;
 $uom-grey: #999999;
-$inner-width: 1000px;
+$inner-width: 1200px;
 
 * {
   box-sizing: border-box;
@@ -24,6 +24,35 @@ body {
 }
 
 a:hover, a:focus { text-decoration: none; font-weight: normal; }
+
+#secondary_navigation {
+    padding: 10px 0px 10px 0px;
+    background-color: #000033;
+    height: 45px;
+    //border-bottom: 3px #7b22aa solid;
+
+    a {
+        color: #ffffff;
+        text-shadow: inherit;
+        text-decoration: none;
+    }
+
+  a:hover {
+    font-weight: normal;
+  }
+}
+
+#secondary_navigation ul {
+    margin: 0 auto;
+    width: $inner-width;
+}
+
+#secondary_navigation ul li.menuItem {
+    float: left;
+    list-style-type: none;
+    color: #ffffff;
+    padding: 0px 20px 0px 0px;
+}
 
 #main_content_wrap {
   flex: 1 0 auto;
@@ -132,7 +161,7 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
   background-image: url(//assets.manchester.ac.uk/staffnet/images/circles.png);
   background-repeat: no-repeat;
   background-position: bottom;
-  border-bottom: 1px solid #eeeeee;
+  //border-bottom: 1px solid #eeeeee;
 }
 
 .header-logo{

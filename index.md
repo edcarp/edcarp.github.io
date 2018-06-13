@@ -4,8 +4,11 @@ layout: home
 
 # Welcome!
 Carpentry workshops are just a part of various training for scientists and researchers that is available 
-at the University of Manchester. Such training is mainly facilitated through  University of Manchester's [Research IT](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/), but also [Library Services](http://www.library.manchester.ac.uk/contact/other-services/), 
-[Cathie Marsh Institute for Social Research (CMIST)'s short courses](https://www.cmist.manchester.ac.uk/study/short/), [Staff Learning and Development (STDU)](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/) and other units and departments as well as groups and individuals.
+at the University of Manchester. Such training is mainly facilitated through  University of Manchester's 
+[Research IT](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/), 
+but also [Library Services](http://www.library.manchester.ac.uk/contact/other-services/), 
+[Cathie Marsh Institute for Social Research (CMIST)'s short courses](https://www.cmist.manchester.ac.uk/study/short/), 
+[Staff Learning and Development (STDU)](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/) and other units and departments as well as groups and individuals.
 
 For Carpentry workshops in general or for training for Doctoral Training Centres the best point of contact is [Research IT](http://www.itservices.manchester.ac.uk/research/) - 
 they will be able to help you with Software Carpentry and new and emerging Library, Digital Humanities and HPC Carpentries. For Data Carpentry for social sciences the best point of contact is [CMIST](https://www.cmist.manchester.ac.uk/), while [Research IT](http://www.itservices.manchester.ac.uk/research/) will be able to guide 
