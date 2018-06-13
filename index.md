@@ -4,12 +4,12 @@ layout: home
 
 # Welcome!
 Carpentry workshops are just a part of various training for scientists and researchers that is available 
-at the University of Manchester. Such training is mainly facilitated through the [Research IT](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/), but also [Library Services](http://www.library.manchester.ac.uk/using-the-library/staff/research/services/), 
+at the University of Manchester. Such training is mainly facilitated through the [Research IT](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/), but also Library Services, 
 [Cathie Marsh Institute for Social Research (CMIST)'s short courses](https://www.cmist.manchester.ac.uk/study/short/), [Staff Learning and Development (STDU)](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/) and other units and departments as well as groups and individuals.
 
 For Carpentry workshops in general or for training for Doctoral Training Centres the best point of contact is [Research IT](http://www.itservices.manchester.ac.uk/research/) - 
-they will be able to help you with Software Carpentry and new and emerging Library, Digital Humanities, HPC Carpentries. For Data Carpentry, the best point of contact is [CMIST](https://www.cmist.manchester.ac.uk/), though Research IT would be able to guide 
-you and provide information about Data Carpentry as well. See our [contact page](/contact) for details on how to get in touch with each of these individual training providers. 
+they will be able to help you with Software Carpentry and new and emerging Library, Digital Humanities and HPC Carpentries. For Data Carpentry for social sciences, the best point of contact is [CMIST](https://www.cmist.manchester.ac.uk/), and Research IT would be able to guide 
+you and provide information about Data Carpentry workshops for your domain as well. See our [contact page](/contact) for details on how to get in touch with each of these individual training providers. 
 
 Here, we try to provide information on all things that are happening in the University of Manchester's Carpentry community 
 as well as point to events and news from the international Carpentry community.
