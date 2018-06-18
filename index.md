@@ -5,12 +5,12 @@ layout: home
 # Welcome!
 At the University of Manchester there are various groups offering training in research computing to researchers and PhD students:
 - [Research IT](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/academicandresearch/practical-skills-and-knowledge/it-skills/research-computing/research-courses/)
-- [Cathie Marsh Institute for Social Research (CMIST)](https://www.cmist.manchester.ac.uk/study/short/)
+- [Cathie Marsh Institute for Social Research (CMI)](https://www.cmist.manchester.ac.uk/study/short/)
 - [Library Services](http://www.library.manchester.ac.uk/contact/other-services/)
 - [Staff Learning and Development (STDU)](http://www.staffnet.manchester.ac.uk/staff-learning-and-development/)
 
 Contact [Research IT](http://www.itservices.manchester.ac.uk/research/) for Carpentry workshops in general, or for training for Doctoral Training Centres.
-For Data Carpentry for social sciences the best point of contact is [CMIST](https://www.cmist.manchester.ac.uk/), while [Research IT](http://www.itservices.manchester.ac.uk/research/) will be able to guide 
+For Data Carpentry for social sciences the best point of contact is [CMI](https://www.cmist.manchester.ac.uk/), while [Research IT](http://www.itservices.manchester.ac.uk/research/) will be able to guide 
 you and provide information about general Data Carpentry workshops or Data Carpentry for your domain. See our [contact page](/{{ site.baseurl }}/contact) for details on how to get in touch with each of these individual training providers. 
 
 Here, we try to provide information on all things that are happening in the University of Manchester's Carpentry community 
