@@ -17,7 +17,7 @@ To find out more about different training (including various Carpentry workshops
 
 To find our more about Data Carpentry for social sciences, contact:
 
-- Prof. Rachel Gibson, director of the [Cathie Marsh Institute for Social Research (CMIST)](https://www.cmist.manchester.ac.uk/connect/contact/)
+- Prof. Rachel Gibson, director of the [Cathie Marsh Institute for Social Research (CMI)](https://www.cmist.manchester.ac.uk/connect/contact/)
 
 Join our mailing lists to keep up-to-date:
 
