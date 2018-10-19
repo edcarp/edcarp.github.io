@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Welcome!
-
 ## What are The Carpentries?
 [The Carpentries](https://carpentries.org/) teach foundational computational, coding, and data science skills to researchers worldwide with no or minimal prior 
 programming knowledge who find themselves increasingly having to write code to conduct their work. In the UK, the Carpentry programme was first endorsed by the
