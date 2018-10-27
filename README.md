@@ -1,6 +1,6 @@
-# Website for the Carpentry community @ University of Manchester
+# Website for the Carpentry community @ University of Edinburgh
 
-Published at https://uomresearchit.github.io/carpentries-manchester/
+Published at https://edcarp.github.io/
 
 ## Run Locally
 ### Requirements
