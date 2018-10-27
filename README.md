@@ -1,6 +1,6 @@
 # Website for the Carpentry community @ University of Edinburgh
 
-Published at https://edcarp.github.io/
+Published at https://edcarp.github.io/website
 
 ## Run Locally
 ### Requirements
