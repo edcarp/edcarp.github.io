@@ -1,8 +1,8 @@
-<h3>News</h3>
+<h3>Upcoming and past workshops</h3>
 <ul class="post-list">
-    {% for post in site.posts, limit: 10 %}
+    {% for post in site.posts reversed %}
     <li>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <a class="post-link" href="{{ post.website }}">{{ post.title }}, {{ post.location }}, {{ post.when }}</a>
     </li>
     {% endfor %}
 </ul>

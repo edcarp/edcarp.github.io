@@ -27,7 +27,7 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
 
 #secondary_navigation {
     padding: 10px 0px 10px 0px;
-    background-color: #000033;
+    background-color: #000000;
     height: 45px;
     //border-bottom: 3px #7b22aa solid;
 
@@ -100,7 +100,7 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
   @media screen and (max-width: 480px) {
     padding-top: 0;
   }
-  
+
   .header-tab {
     //display: inline-block;
     color: #fff;
@@ -130,6 +130,8 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
 }
 
 #project_title {
+  z-index: 10;
+  margin: 0 20px;
   padding-top: 50px;
   font-size: 24px;
   color: #ffffff;
@@ -154,10 +156,10 @@ a:hover, a:focus { text-decoration: none; font-weight: normal; }
 #header_wrap {
   .inner {
     padding: 5px;
-    /*background: url(../images/our-brand-banner.jpg) top center;*/
+    background: url(../images/our-brand-banner.jpg) top center;
     background-size: cover;
   }
-  background-color: #999999;
+  background-color: #262626;
   //background-image: url(//assets.manchester.ac.uk/staffnet/images/circles.png);
   background-repeat: no-repeat;
   background-position: bottom;
