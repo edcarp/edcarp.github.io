@@ -8,7 +8,7 @@ Edinburgh Carpentries is the local community of instructors and volunteers of [T
 ## What is The Carpentries?
 The Carpentries teaches foundational computational, coding, and data science skills to researchers worldwide with no or minimal prior
 programming knowledge who find themselves increasingly having to write code to conduct their work. In the UK, the Carpentry programme was first endorsed by the
-[Software Sustanability Institute (SSI)](https://software.ac.uk/), which still provide support for running and organising workshops and recruiting instructors
+[Software Sustainability Institute (SSI)](https://software.ac.uk/), which still provide support for running and organising workshops and recruiting instructors
 from the wider UK Carpentry community.
 
 The Carpentries project was formed in January 2018 by formally merging [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/).
