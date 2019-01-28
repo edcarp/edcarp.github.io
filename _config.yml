@@ -17,7 +17,7 @@ title: Edinburgh Carpentries
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The University of Edinburgh’s Carpentries community
-baseurl: "website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://edcarp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  edcarp
