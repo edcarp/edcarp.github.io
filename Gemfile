@@ -11,6 +11,10 @@ source "https://rubygems.org"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
+gem "nokogiri", ">= 1.8.5"
+gem "jekyll", ">= 3.6.3"
+gem "rubyzip", ">= 1.2.2"
+gem "ffi", ">= 1.9.24"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -23,4 +27,3 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
