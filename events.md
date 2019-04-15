@@ -6,4 +6,4 @@ permalink: /Events/
 
 # Events
 
-{% include latest_news.html %}
+{% include OtherEvents.html %}
