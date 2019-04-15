@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Events
-permalink: /Event/
+permalink: https://edcarp.github.io/2019-05-24-social/
 ---
 
-# Event
-
-{% include OtherEvents.html %}
