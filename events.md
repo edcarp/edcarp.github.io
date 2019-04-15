@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Events
-permalink: /Events/
+permalink: /Event/
 ---
 
-# Events
+# Event
 
 {% include OtherEvents.html %}
