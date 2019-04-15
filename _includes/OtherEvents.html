@@ -1,8 +1,8 @@
 <h3>Upcoming and past Events</h3>
-<ul class="event-list">
-    {% for event in site.event %}
+<ul class="Event-list">
+    {% for event in site.Event %}
     <li>
-        <a class="event-link" href="{{ event.website }}">{{ event.title }}, {{ event.location }}, {{ event.when }}</a>
+        <a class="Event-link" href="{{ Event.website }}">{{ Event.title }}, {{ Event.location }}, {{ Event.when }}</a>
     </li>
     {% endfor %}
 </ul>
