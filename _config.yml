@@ -24,6 +24,7 @@ github_username:  edcarp
 
 # Build settings
 markdown: kramdown
+future: true
 show_downloads: false
 google_analytics:
 plugins:
