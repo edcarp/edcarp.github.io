@@ -1,8 +1,8 @@
 ---
-title:  "Data Carpentry workshop"
+title:  "Data Carpentry workshop in Digital Humanities"
 when: "04-06 June 2019"
 location: "TBC"
-website: https://edcarp.github.io/2018-09-11-edinburgh/
+website: https://edcarp.github.io/2019-06-04-edinburgh/
 
 categories: jekyll update
 type: workshop_announcement
