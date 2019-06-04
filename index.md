@@ -33,3 +33,7 @@ Data Carpentry (since 2014) teaches particular and recommended open source tools
 Read more about the [history of Software and Data Carpentry](https://software-carpentry.org/scf/history/).
 
 ![carpentries-history](https://software-carpentry.org/files/2017/SWCDChistory.png "A brief history of Software and Data Carpentry")
+
+## Mailing List 
+If you want to register to the EdCarp mailing list and/or you want to be involved as an helper or an instructor in a EdCarp Workshops fill this [form](http://eepurl.com/gl4MsX)
+
