@@ -35,9 +35,9 @@ Read more about the [history of Software and Data Carpentry](https://software-ca
 ![carpentries-history](https://software-carpentry.org/files/2017/SWCDChistory.png "A brief history of Software and Data Carpentry")
 
 ## Mailing List 
-If you want to register to the EdCarp mailing list and/or you want to be involved as an helper or an instructor in a EdCarp Workshops fill this [form](http://eepurl.com/gl4MsX)
+If you want to register to the EdCarp mailing list and/or you want to be involved as an helper or an instructor in a EdCarp Workshops fill this [form](http://eepurl.com/gl4MsX).
 
 ## Privacy Statement
 
-See Edinburgh Carpentries' privacy policy follows the guidelines of the University of Edinburgh and can be read here (https://docs.google.com/document/d/12oBSoSSB9chKWQ3dbK6BbK2y1ouLn1FPI185bTQi2ig).
+See Edinburgh Carpentries' privacy policy follows the guidelines of the University of Edinburgh and can be read [here] (https://docs.google.com/document/d/12oBSoSSB9chKWQ3dbK6BbK2y1ouLn1FPI185bTQi2ig).
 
