@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1194 1254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.910122,0,0,0.911509,41.5614,51.0331)">
+        <rect x="93.789" y="152.385" width="1028.46" height="833.488" style="fill:rgb(0,105,232);"/>
+    </g>
+    <g transform="matrix(6.91284,6.12722,-6.12722,6.91284,215.442,-93.3995)">
+        <path d="M52.323,0L42.734,3.6L38.875,8.672L36.804,12.896L34.56,19.051L34.56,27.222L38.875,29.903L38.875,33.694L34.56,35.989C34.332,38.965 33.809,42.014 34.56,44.443L36.804,46.698L52.323,46.698C52.323,46.698 53.12,37.774 52.323,35.989C51.674,34.534 47.542,35.989 47.542,35.989L47.542,29.903L50.277,27.222L80.459,27.222L82.672,29.903L136.292,29.903L138.668,27.222L138.668,19.051L84.372,19.051L82.672,21.758L50.277,21.758L47.542,19.051L42.734,16.106L42.734,12.896L45.987,8.672L50.277,3.6L52.323,0" style="fill:white;"/>
+        <g transform="matrix(1,0,0,1,1,0)">
+            <path d="M83.475,20.138L136.157,20.138L131.994,22.688L90.734,22.688L83.475,20.138Z" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1,1)">
+            <path d="M46.882,36.183L50.329,36.183L50.329,42.092L46.882,38.402" style="fill:white;"/>
+        </g>
+    </g>
+    <g>
+        <g transform="matrix(-6.91284,6.12722,6.12722,6.91284,969.933,-93.3995)">
+            <path d="M52.323,0L42.734,3.6L38.875,8.672L36.804,12.896L34.56,19.051L34.56,27.222L38.875,29.903L38.875,33.694L34.56,35.989C34.332,38.965 33.809,42.014 34.56,44.443L36.804,46.698L52.323,46.698C52.323,46.698 53.12,37.774 52.323,35.989C51.674,34.534 47.542,35.989 47.542,35.989L47.542,29.903L50.277,27.222L80.459,27.222L82.672,29.903L136.292,29.903L138.668,27.222L138.668,19.051L84.372,19.051L82.672,21.758L50.277,21.758L47.542,19.051L42.734,16.106L42.734,12.896L45.987,8.672L50.277,3.6L52.323,0" style="fill:white;stroke:white;stroke-width:0.11px;"/>
+        </g>
+        <g transform="matrix(-6.91284,6.12722,6.12722,6.91284,963.02,-87.2723)">
+            <path d="M83.475,20.138L136.157,20.138L131.994,22.688L90.734,22.688L83.475,20.138Z" style="fill:white;stroke:white;stroke-width:0.11px;stroke-linecap:butt;stroke-miterlimit:1.41421;"/>
+        </g>
+        <g transform="matrix(-6.91284,6.12722,6.12722,6.91284,969.148,-80.3594)">
+            <path d="M46.882,36.183L50.329,36.183L50.329,42.092L46.882,38.402" style="fill:white;stroke:white;stroke-width:0.11px;stroke-linecap:butt;stroke-miterlimit:1.41421;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-1.62861,-0.858917)">
+        <text x="177.341px" y="1037.67px" style="font-family:'Courier';font-size:128px;">Carpentries</text>
+    </g>
+    <g transform="matrix(1,0,0,1,72.4339,-876.578)">
+        <text x="177.341px" y="1037.67px" style="font-family:'Courier';font-size:128px;">Edinburgh</text>
+    </g>
+</svg>
