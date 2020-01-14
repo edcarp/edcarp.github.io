@@ -1,3 +1,9 @@
+---
+layout: default
+title: Committee
+permalink: /committee/
+---
+
 <div class="row">
   <div class="col-md-6">
     <h3>Organising Committee</h3>
