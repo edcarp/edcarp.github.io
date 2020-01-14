@@ -4,7 +4,7 @@
     <table class="table table-striped">
       <tr> <td>Giacomo Peru</td>  <td>EPCC</td> </tr>
       <tr> <td>Jen Daub</td>  <td>Research Data Service</td> </tr>
-      <tr> <td>David McKain</td>  <td>School of Pysics and Astronomy</td> </tr>
+      <tr> <td>David McKain</td>  <td>School of Physics and Astronomy</td> </tr>
       <tr> <td>Edward Wallace</td>  <td>School of Biological Sciences</td> </tr>
       <tr> <td>Lucia Michielin</td>  <td>School of History, Classics and Archaeology</td> </tr>
       <tr> <td>Antonia Mey</td>  <td>School of Chemistry</td> </tr>
@@ -14,24 +14,21 @@
       <tr> <td>Mario Antonioletti</td>  <td>EPCC</td> </tr>
       <tr> <td>Sara Tilley</td>  <td>Heriot Watt</td> </tr>
       <tr> <td>Matthew Hamilton</td>  <td>ECA</td> </tr>
-
-
-
     </table>
   </div>
+  
   <div class="col-md-6">
-    <h3>Day 2 (Thursday 30th)</h3>
+    <h3>Steering Committee</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Version Control with Git</td> </tr>
-      <tr> <td>10:30</td>  <td>Morning break</td> </tr>
-      <tr> <td>11:00</td>  <td>Version Control with Git (Continued)</td> </tr>
-      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>15:00</td>  <td>Building Programs with Python (Continued)</td> </tr>
-      <tr> <td>14:30</td>  <td>Afternoon break</td> </tr>
-      <tr> <td>15:00</td>  <td>Building Programs with Python (Continued)</td> </tr>
-      <tr> <td>16:00</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop Survey</a></td> </tr>
-      <tr> <td>16:40</td>  <td>END</td> </tr>
+      <tr> <td>Giacomo Peru</td>  <td>EPCC</td> </tr>
+      <tr> <td>Neil Chue Hong</td>  <td>EPCC</td> </tr>
+      <tr> <td>Sean McGeever</td>  <td>School of Physics and Astronomy</td> </tr>
+      <tr> <td>David Fergusson</td>  <td>Digital Research Services</td> </tr>
+      <tr> <td>Lisa Otty</td>  <td>Centre for Data, Culture and Society</td> </tr>
+      <tr> <td>Jen Daub</td>  <td>Research Data Service</td> </tr>
+      <tr> <td>Edward Wallace</td>  <td>School of Biological Sciences</td> </tr>
+      <tr> <td>Victoria Dishon</td>  <td>College of Science and Engineering</td> </tr>
+      <tr> <td>Sarah Ames</td>  <td>National Libraries of Scotland</td> </tr>
     </table>
   </div>
 </div>
