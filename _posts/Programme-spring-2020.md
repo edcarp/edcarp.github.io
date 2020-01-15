@@ -1,9 +1,0 @@
----
-title:  "Programme Semester 2 - Academic Year 2019-2020"
-when: "14 January 2020"
-location: "Various"
-website: https://edcarp.github.io/2019-05-24-social/
-
-categories: jekyll update
-type: workshop_announcement
----
