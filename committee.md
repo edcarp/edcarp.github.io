@@ -31,7 +31,6 @@ permalink: /committee/
       <tr> <td>Sean McGeever</td>  <td>School of Physics and Astronomy</td> </tr>
       <tr> <td>David Fergusson</td>  <td>Digital Research Services</td> </tr>
       <tr> <td>Lisa Otty</td>  <td>Centre for Data, Culture and Society</td> </tr>
-      <tr> <td>Jen Daub</td>  <td>Research Data Service</td> </tr>
       <tr> <td>Edward Wallace</td>  <td>School of Biological Sciences</td> </tr>
       <tr> <td>Victoria Dishon</td>  <td>College of Science and Engineering</td> </tr>
       <tr> <td>Sarah Ames</td>  <td>National Libraries of Scotland</td> </tr>
