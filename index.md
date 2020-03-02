@@ -2,8 +2,8 @@
 layout: home
 ---
 
-# The Carpentries at Edinburgh University
-Edinburgh Carpentries is a local community of instructors and volunteers of [The Carpentries](https://carpentries.org/) at the University of Edinburgh. Our instructors are trained volunteers, who deliver workshops about introductory coding and coding best practices, specifically targeted at academics. The Carpentries workshops are suitable for complete beginners.
+# The Carpentries at Edinburgh
+Edinburgh Carpentries (EdCarp) is a local community of instructors and volunteers of [The Carpentries](https://carpentries.org/) mainly at the University of Edinburgh. Our instructors are trained volunteers, who deliver workshops about introductory coding and coding best practices, specifically targeted at academics. The Carpentries workshops are suitable for complete beginners.
 
 ## The Carpentries
 The Carpentries teaches foundational computational, coding, and data science skills to researchers worldwide with no or minimal prior
