@@ -1,4 +1,4 @@
-## Accessibility statement for Edinburgh Carpentries website and depnding workshop websites
+## Accessibility statement for Edinburgh Carpentries website and depending workshop websites
 
 This accessibility statement applies to the websites related to Edinburgh Carpentries, including the main website at [edcarp.github.io/](https://edcarp.github.io/) and the individual websites for each workshop. These websites are run by volunteers mainly from [The University of Edinburgh](http://www.ed.ac.uk).  
 
