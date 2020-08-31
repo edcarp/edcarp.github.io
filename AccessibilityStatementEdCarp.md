@@ -18,10 +18,7 @@ You can view this website either as processed HTML generated from markdown or yo
 
 ### How accessible this website is
 
-We know some parts of this website are not fully accessible:
-
-* Presentations provided by third parties are supplied in Powerpoint and PDF formats and may not be fully accessible, and we do not provide a text-only summary
-* Some parts of this website have very low contrast between foreground and background
+We know some parts of this website are not fully accessible and we are working on this. We welcome feed-back with that respect. Please see contact details below.
 
 ### Feedback and contact information
 
