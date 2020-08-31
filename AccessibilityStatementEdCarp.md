@@ -61,9 +61,6 @@ Some parts of the website have very low contrast between foreground and backgrou
 
 ## Preparation of this accessibility statement
 
-This statement was prepared on 27 August 2020. It was last reviewed on 31 August 2020.
+Version 0.1, Published on 31 August 2020.
 
 This website was last tested on 31 August 2020. The test was carried out by running our web pages through the following accessiblity checkers [Wave](https://wave.webaim.org/extension/) and [AChecker](https://achecker.ca/).
-
-
-Version 0.1, Published on 31 August 2020.
