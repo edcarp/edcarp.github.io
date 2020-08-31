@@ -41,5 +41,5 @@ If you want to register to the EdCarp mailing list and/or you want to be involve
 See Edinburgh Carpentries' privacy policy follows the guidelines of the University of Edinburgh and can be read [here](https://docs.google.com/document/d/12oBSoSSB9chKWQ3dbK6BbK2y1ouLn1FPI185bTQi2ig).
 
 ## Accessibility Statement
-See Edcinburgh Carpentries website's Accessibility Statement [here] (https://github.com/edcarp/edcarp.github.io/blob/master/AccessibilityStatementEdCarp.md)
+See Edcinburgh Carpentries website's Accessibility Statement [here](https://github.com/edcarp/edcarp.github.io/blob/master/AccessibilityStatementEdCarp.md)
 
