@@ -38,7 +38,7 @@ Read more about the [history of Software and Data Carpentry](https://software-ca
 If you want to register to the EdCarp mailing list and/or you want to be involved as an helper or an instructor in a EdCarp Workshops fill this [form](http://eepurl.com/gl4MsX).
 
 ## Privacy Statement
-See Edinburgh Carpentries' [privacy policy](https://github.com/edcarp/edcarp.github.io/blob/master/PrivacyStatement.md) follows the guidelines of the University of Edinburgh.
+Edinburgh Carpentries' [privacy policy](https://github.com/edcarp/edcarp.github.io/blob/master/PrivacyStatement.md) follows the guidelines of the University of Edinburgh.
 
 
 ## Accessibility Statement
