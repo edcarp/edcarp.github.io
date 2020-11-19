@@ -1,6 +1,6 @@
 ---
-title:  "Data Carpentry for Humanities. Univerity of Edinburgh"
-when: "25-27 Novemeber"
+title:  "Data Carpentry for Humanities. University of Edinburgh"
+when: "25-27 November"
 location: "Online"
 website: https://edcarp.github.io/2020-11-25-edinburgh-dc-digital-humanities/
 
