@@ -20,6 +20,7 @@ permalink: /committee/
       <tr> <td>Mario Antonioletti</td>  <td>EPCC</td> </tr>
       <tr> <td>Sara Tilley</td>  <td>Heriot Watt</td> </tr>
       <tr> <td>Matthew Hamilton</td>  <td>ECA</td> </tr>
+      <tr> <td>Bailey Harrington</td>  <td>IGMM</td> </tr>
     </table>
   </div>
   
