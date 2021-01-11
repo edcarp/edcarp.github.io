@@ -7,6 +7,7 @@ permalink: /committee/
 <div class="row">
   <div class="col-md-6">
     <h3>Organising Committee</h3>
+    <caption>The organising committee coordinates the delivery of each Edinburgh Carpentry courses.</caption>
     <table class="table table-striped">
       <tr> <td>Giacomo Peru</td>  <td>EPCC</td> </tr>
       <tr> <td>Jen Daub</td>  <td>Research Data Service</td> </tr>
@@ -22,9 +23,11 @@ permalink: /committee/
       <tr> <td>Matthew Hamilton</td>  <td>ECA</td> </tr>
     </table>
   </div>
-  
+
+
   <div class="col-md-6">
     <h3>Steering Committee</h3>
+    <caption>The steering committee looks at longer-term strategic aims and sustainability of the Edinburgh Carpentries.</caption>
     <table class="table table-striped">
       <tr> <td>Giacomo Peru</td>  <td>EPCC</td> </tr>
       <tr> <td>Neil Chue Hong</td>  <td>EPCC</td> </tr>
