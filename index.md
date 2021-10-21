@@ -7,7 +7,7 @@ Edinburgh Carpentries (EdCarp) is a local community of instructors and volunteer
 
 # Developing data skills in the life sciences
 
-The [Ed-DaSH homepage](https://edcarp.github.io/Ed-DaSH/index.html) has more information on how to get Data Driven Life Science Skills Development: Equipping Society For The Future (Ed-DaSH), a project funded by UKRI and MRC.
+The [Ed-DaSH homepage](https://edcarp.github.io/Ed-DaSH/index.html) has more information on how to get *Data Driven Life Science Skills Development: Equipping Society For The Future (Ed-DaSH)*, a project funded by UKRI and MRC.
 If you want to know more please visit those pages which also include some newer workshop listings.
 
 ## The Carpentries
