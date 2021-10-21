@@ -5,7 +5,7 @@ layout: home
 # The Carpentries at Edinburgh
 Edinburgh Carpentries (EdCarp) is a local community of instructors and volunteers of [The Carpentries](https://carpentries.org/) mainly at the University of Edinburgh. Our instructors are trained volunteers, who deliver workshops about introductory coding and coding best practices, specifically targeted at academics. The Carpentries workshops are suitable for complete beginners.
 
-# Ed-DaSH for data skills development in life sciences.
+# Ed-DaSH for data skills development in life sciences
 
 [Ed-DaSH homepage](https://edcarp.github.io/Ed-DaSH/index.html) has more information on Data Driven Life Science Skills Development: Equipping Society For The Future (Ed-DaSH), a project funded by UKRI and MRC.
 This includes some newer workshop listings.
