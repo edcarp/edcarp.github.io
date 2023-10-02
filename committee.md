@@ -8,7 +8,7 @@ permalink: /committee/
   <div class="col-md-6">
     <h2>Organising Committee</h2>
     The organising committee coordinates the delivery of each Edinburgh Carpentry courses.
-    <h3>Current Members</h3>h3>
+    <h3>Current Members</h3>
     Antonia Mey, School of Chemistry, University of Edinburgh<br>        
     Bailey Harrington, Strathclyde Institute Of Pharmacy And Biomedical Sciences, University of Strathclyde <br> 
     Evgenij Belikov, EPCC, University of Edinburgh<br>      
@@ -37,7 +37,6 @@ permalink: /committee/
       <tr> <td>Sarah Ames</td>  <td>National Libraries of Scotland</td> </tr>
       <tr> <td>Sean McGeever</td>  <td>School of Physics and Astronomy, University of Edinburgh</td> </tr>
       <tr> <td>Teresa Ironside</td>  <td>Bayes Centre, University of Edinburgh</td> </tr>
-      
     </table>
   </div>
 </div>
