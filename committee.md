@@ -20,7 +20,9 @@ permalink: /committee/
     Robert Nagy, EPCC, University of Edinburgh<br>           
     Steven Ford, Institute of Pharmacy and Biomedical Sciences, University of Stathclyde<br>            
     Toby Samuels, Research Futures Academy, Heriot-Watt University<br>             
-    <h2>Previous Members<h2>
+  </div> 
+  <div class="col-md-6">
+    <h2>Previous Members</h2>
   </div> 
 
   <div class="col-md-6">
