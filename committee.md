@@ -14,8 +14,9 @@ permalink: /committee/
     Evgenij Belikov, EPCC, University of Edinburgh<br>      
     Giacomo Peru, SSI/EPCC, University of Edinburgh<br> 
     Graeme Grimes, IGC, University of Edinburgh<br>        
-    Juan Herrera, EPCC, University of Edinburgh<br>        
-    Lucia Michielin, Centre for data Culture & Society, University of Edinburgh<br>             
+    Juan Herrera, EPCC, University of Edinburgh<br>
+    Matthew Hamilton, ECA, University of Edinburgh<br> 
+    Lucia Michielin, Centre for Data Culture & Society, University of Edinburgh<br>             
     Mario Antonioletti, SSI/EPCC, University of Edinburgh<br>         
     Robert Nagy, EPCC, University of Edinburgh<br>           
     Steven Ford, Institute of Pharmacy and Biomedical Sciences, University of Stathclyde<br>            
